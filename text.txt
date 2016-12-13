@@ -1,0 +1,66 @@
+Archivo de Informacion:
+Mon Dec 12 16:04:17 CLST 2016: ***Index.jsp: El usuario 'journal_cn' no existe.
+
+Mon Dec 12 16:05:43 CLST 2016: ***Index.jsp: El usuario 'Esteusuario' no existe.
+
+Mon Dec 12 16:06:43 CLST 2016: ***Index.jsp: El usuario 'journal_cnfdddddddd' no existe.
+
+Mon Dec 12 16:10:28 CLST 2016: ***Index.jsp: El usuario 'journal_cn' no existe.
+
+Mon Dec 12 16:12:42 CLST 2016: ***Index.jsp: El usuario 'journal_cn' no existe.
+
+Mon Dec 12 16:12:44 CLST 2016: ***Index.jsp: El usuario 'journal_cn' no existe.
+
+Mon Dec 12 16:12:46 CLST 2016: ***Index.jsp: El usuario 'journal_cn' no existe.
+
+Mon Dec 12 16:18:15 CLST 2016: ***Index.jsp: El usuario 'journal_cn' no existe.
+
+Mon Dec 12 16:18:22 CLST 2016: ***Index.jsp: El usuario 'journal_cn' no existe.
+
+Mon Dec 12 16:19:28 CLST 2016: ***Index.jsp: El usuario 'journal_cn' no existe.
+
+Mon Dec 12 16:19:32 CLST 2016: ***Index.jsp: El usuario 'journal_cn' no existe.
+
+Mon Dec 12 16:20:33 CLST 2016: ***Index.jsp: El usuario 'journal_cn' no existe.
+
+Mon Dec 12 16:20:39 CLST 2016: ***Index.jsp: El usuario 'journal_cn' no existe.
+
+Mon Dec 12 16:20:47 CLST 2016: ***Index.jsp: El usuario 'journal_cn' no existe.
+
+Mon Dec 12 16:23:10 CLST 2016: ***Index.jsp: El usuario 'journal_cn' no existe.
+
+Mon Dec 12 17:43:33 CLST 2016: ***Index.jsp: La contraseña no coincide con el usuario.
+
+Tue Dec 13 11:07:58 CLST 2016: Revisar las siguientes alertas: \n- El rut debe ser solo numerico(sin digito verificador).\n- Ingrese un rut válido.\n- Las contraseñas no coinciden.***intente nuevamente***
+
+Tue Dec 13 11:08:40 CLST 2016: Revisar las siguientes alertas: \n- El rut debe ser solo numerico(sin digito verificador).\n- Ingrese un rut válido.\n- El usuario ya existe.\n- Las contraseñas no coinciden.\n- Minimo 6 caracteres en la contraseña.***intente nuevamente***
+
+Tue Dec 13 11:17:11 CLST 2016: Revisar las siguientes alertas: \n- El rut debe ser solo numerico(sin digito verificador).\n- Ingrese un rut válido.\n- El usuario ya existe.\n- Las contraseñas no coinciden.\n- Minimo 6 caracteres en la contraseña.***intente nuevamente***
+
+Tue Dec 13 11:17:29 CLST 2016: El usuario: usuario, rut: 3, nombre: usuario prueba fue registrado exitosamente.
+
+Tue Dec 13 11:18:04 CLST 2016: Revisar las siguientes alertas: \n- El rut ingresado ya existe.\n- El usuario ya existe.***intente nuevamente***
+
+Tue Dec 13 11:20:53 CLST 2016: Revisar las siguientes alertas: \n- El rut ingresado ya existe.\n- El usuario ya existe.***intente nuevamente***
+
+Tue Dec 13 11:21:52 CLST 2016: El usuario: 'user', rut: '4', nombre: 'asd erf' fue registrado exitosamente.
+
+Tue Dec 13 11:25:53 CLST 2016: El usuario: 'esteban', rut: '5', nombre: 'gserga' fue registrado exitosamente.
+
+Tue Dec 13 11:30:46 CLST 2016: El usuario: 'luis', rut: '6', nombre: 'lkjasd' fue registrado exitosamente.
+
+Tue Dec 13 11:31:05 CLST 2016: Revisar las siguientes alertas: \n- El rut ingresado ya existe.\n- El usuario ya existe.***intente nuevamente***
+
+Tue Dec 13 11:31:17 CLST 2016: El usuario: 'gerson', rut: '7', nombre: 'asdasd' fue registrado exitosamente.
+
+Tue Dec 13 11:31:39 CLST 2016: Revisar las siguientes alertas: \n- El rut ingresado ya existe.\n- El usuario ya existe.***intente nuevamente***
+
+Tue Dec 13 11:31:51 CLST 2016: El usuario: 'patricio', rut: '8', nombre: 'asdasd' fue registrado exitosamente.
+
+Tue Dec 13 11:39:19 CLST 2016: Revisar las siguientes alertas: \n- El rut ingresado ya existe.\n- El usuario ya existe.***intente nuevamente***
+
+Tue Dec 13 11:39:30 CLST 2016: El usuario: 'aaron', rut: '9', nombre: 'asdasdasd' fue registrado exitosamente.
+
+Tue Dec 13 11:39:52 CLST 2016: El usuario: 'asdasd', rut: '10', nombre: 'asdasd' fue registrado exitosamente.
+
+Tue Dec 13 11:40:44 CLST 2016: El usuario: 'zxczxc', rut: '11', nombre: 'zxczxc' fue registrado exitosamente.
