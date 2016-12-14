@@ -103,10 +103,80 @@ span.span a{
 
 /*PAGINA PRINCIPAL*/
 .contenedor{
+    float: left;
     margin: auto;
-    width: 1048px;
-    background-color: #46a;
+    margin-left: 250px;
+    width: 30%;
+    background-color: rgba(40,10,40,0.7);
+    height: 450px;
+    padding: 30px;
+    border-radius: 20px;
 }
+
+.ciudad{
+    float: left;
+    margin: auto auto 20px 50px;
+    width: 20%;
+    background-color: rgba(40,10,40,0.7);
+    height: 185px;
+    padding: 30px;
+    border-radius: 20px;
+}
+.local{
+    float: left;
+    margin: 0px 50px;
+    width: 20%;
+    background-color: rgba(40,10,40,0.7);
+    height: 185px;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+#rutin,#nombre,#contacto,#folio,#ciudad,#local,#monto,#observacion{
+    width: 100%;
+    padding: 5px 10px;
+    margin: 2px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 5px
+}
+
+#regis{
+    background-color: #a6b;
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+    padding: 14px 20px;
+    margin: 10px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 5px
+}
+#idciudad, #nciudad{
+    width: 100%;
+    padding: 5px 10px;
+    margin: 2px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 5px
+}
+#regc{
+    background-color: #a6b;
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+    padding: 14px 20px;
+    margin: 10px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 5px
+}
+
+
 /*FIN PAGINA PRINCIPAL*/
 
 /*BARRA DE NAVEGACION*/

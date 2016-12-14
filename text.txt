@@ -64,3 +64,19 @@ Tue Dec 13 11:39:30 CLST 2016: El usuario: 'aaron', rut: '9', nombre: 'asdasdasd
 Tue Dec 13 11:39:52 CLST 2016: El usuario: 'asdasd', rut: '10', nombre: 'asdasd' fue registrado exitosamente.
 
 Tue Dec 13 11:40:44 CLST 2016: El usuario: 'zxczxc', rut: '11', nombre: 'zxczxc' fue registrado exitosamente.
+
+Tue Dec 13 14:24:20 CLST 2016: ***Index.jsp: El usuario 'journal_cn' no existe.
+
+Tue Dec 13 17:51:20 CLST 2016: ***Index.jsp: El usuario 'journal_cn' no existe.
+
+Tue Dec 13 17:51:34 CLST 2016: ***Index.jsp: El usuario 'asdgggggggg' no existe.
+
+Tue Dec 13 17:51:47 CLST 2016: ***Index.jsp: El usuario 'faguila7' no existe.
+
+Tue Dec 13 17:51:54 CLST 2016: ***Index.jsp: El usuario 'faguila7' no existe.
+
+Tue Dec 13 17:56:09 CLST 2016: El usuario: 'faguila7', rut: '1', nombre: 'fabian aguila' fue registrado exitosamente.
+
+Wed Dec 14 11:14:46 CLST 2016: ***Index.jsp: El usuario 'asdasdasdasas' no existe.
+
+Wed Dec 14 14:02:22 CLST 2016: ***Index.jsp: El usuario 'faguila' no existe.
