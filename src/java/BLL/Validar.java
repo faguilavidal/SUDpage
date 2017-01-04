@@ -9,6 +9,10 @@ public class Validar{
 	} catch (NumberFormatException nfe){
 		return false;
 	}
-}
+    }
+    
+    public static boolean userIsNull(Usuario u){
+        return false;
+    }
     
 }
